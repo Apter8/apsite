@@ -10,7 +10,7 @@ const Portfolio = () => {
           <h3>Portfolio</h3>
           <div className="s-title ml-auto valign">
             <h6>
-              <Link href="/portfolio-classic-3col">
+              <Link href="">
                 <a>See All Works</a>
               </Link>
               <i className="icon fz-20 pe-7s-angle-right"></i>
