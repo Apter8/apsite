@@ -8,7 +8,7 @@ const Resume = () => {
           <h3>Experience</h3>
           <div className="s-title ml-auto valign">
             <h6>
-              <a href="#0">Download C.V</a>
+              <a href="/img/AP-CV-updated-2024.pdf">Download C.V</a>
               <i className="icon fz-20 pe-7s-angle-right"></i>
             </h6>
           </div>
