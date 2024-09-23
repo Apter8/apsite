@@ -1,0 +1,32 @@
+[
+  {
+    "image": "img/brands/comair.svg",
+    "title": "www.kulula.com"
+  },
+  {
+    "image": "img/brands/Barclays.svg",
+    "title": "www.absa.co.za"
+  },
+  {
+    "image": "img/brands/Bonitas.svg",
+    "title": "www.bonitas.co.za"
+  },
+  {
+    "image": "img/brands/British Airways.svg",
+    "title": "www.britishairways.com"
+  },  
+  
+  {
+    "image": "img/brands/Nedbank.svg",
+    "title": "www.nedbank.co.za"
+  },
+
+  {
+    "image": "img/brands/Momentum.svg",
+    "title": "www.momentum.co.za"
+  },
+  {
+    "image": "img/brands/Fedhealth.svg",
+    "title": "www.fedhealth.co.za"
+  }
+]

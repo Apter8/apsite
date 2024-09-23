@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2021",
+    "icon": "fab fa-amazon",
+    "title": "Product Designer",
+    "at": "Teraflow.AI"
+  },
+  {
+    "date": "2017",
+    "icon": "fab fa-microsoft",
+    "title": "Head of UX Design",
+    "at": "Barclays"
+  },
+  {
+    "date": "2016",
+    "icon": "fab fa-google",
+    "title": "UX Team Lead",
+    "at": "Momentum"
+  },
+  {
+    "date": "2013",
+    "icon": "fab fa-facebook-f",
+    "title": "Senior UX Designer",
+    "at": "Nedbank"
+  }
+]

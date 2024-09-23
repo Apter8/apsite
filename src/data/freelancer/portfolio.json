@@ -1,0 +1,44 @@
+[
+  {
+    "class": "bx-one",
+    "number": "01.",
+    "title": "Absa Banking App",
+    "details": ["I joined Barclays to design their banking app for its 12+ million users, including accounts, rewards, and private banking."],
+    "image": "freelancer/img/works/Absa-Scr.png"
+  },
+  {
+    "class": "bx-two",
+    "number": "02.",
+    "title": "Comair's Kulula.com",
+    "details": ["Flight Booking App & Web"],
+    "image": "freelancer/img/works/Kulula-scr.png"
+  },
+  {
+    "class": "bx-three",
+    "number": "03.",
+    "title": "Livetec Systems",
+    "details": ["Enhance Biosecurity & Control Outbreaks"],
+    "image": "freelancer/img/works/Livetec-scr.png"
+  },
+  {
+    "class": "bx-one",
+    "number": "04.",
+    "title": "Getchange Invest",
+    "details": ["Cryptocurrency Exchange and Wallet"],
+    "image": "freelancer/img/works/GetChange.png"
+  },
+  {
+    "class": "bx-three",
+    "number": "05.",
+    "title": "Fedhealth",
+    "details": ["Medical Scheme"],
+    "image": "freelancer/img/works/Fedhealth-scr.png"
+  },
+  {
+  "class": "bx-three",
+  "number": "06.",
+  "title": "Bonitas",
+  "details": ["One the Largest Healthcare Providers"],
+  "image": "freelancer/img/works/Bonitas-scr.png"
+}
+]

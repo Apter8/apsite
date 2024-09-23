@@ -1,0 +1,33 @@
+{
+  "circles": [
+    {
+      "icon": "pe-7s-light",
+      "titleTop": "3+ Content", 
+      "titleBottom": "& Media Projects" 
+    },
+    {
+      "icon": "pe-7s-users",
+      "titleTop": "Mentoring @", 
+      "titleBottom": "TeraFlow & Medscheme" 
+    },
+    {
+      "icon": "pe-7s-display2",
+      "titleTop": "Keynotes", 
+      "titleBottom": "12+ Events" 
+    }
+  ],
+  "about": {
+    "quote": "What I've been up to",
+    "details": "From humble startups to software embraced by millions, I've found joy and purpose in designing experiences that resonate with people. At Teraflow, I have the privilege of leading a stellar team, designing AI & data-driven digital products that push the boundaries of generative AI. Prior to this, I served as department head, leading the development of online and banking app at Barclays, led a team of UX designers at Momentum, and spent several years traversing the globe while working remotely. Join me as I continue to navigate the tech landscape, sharing insights and learnings gathered along the way."
+  },
+  "numbers": [
+    {
+      "title": "Apps Designed",
+      "value": "119"
+    },
+    {
+      "title": "Total Downloads",
+      "value": "87+ Million"
+    }
+  ]
+}
