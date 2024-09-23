@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import { Swiper, SwiperSlide } from "swiper/react";
 import Split from '../../Split';
-import brands from '../../data/freelancer/clients.json';
+import Brands from '../../../data/freelancer/clients.json';
 
 const Brands = ({ additionalClass, lineHead }) => {
   return (
