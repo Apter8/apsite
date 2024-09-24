@@ -1,9 +1,10 @@
 <?php
 
 // configure
-$from = 'Demo contact form <demo@domain.com>';
-$sendTo = 'Test contact form <hisham.a.mohamed007@gmail.com>'; // Add Your Email
-$subject = 'New message from contact form';
+// configure
+$from = 'info@arnoldpetersen.com';
+$sendTo = 'me@arnoldpetersen.com'; // Add Your Email
+$subject = 'AP Website Enquiry';
 $fields = array('name' => 'Name', 'subject' => 'Subject', 'email' => 'Email', 'message' => 'Message'); // array variable name => Text to appear in the email
 $okMessage = 'Contact form successfully submitted. Thank you, I will get back to you soon!';
 $errorMessage = 'There was an error while submitting the form. Please try again later';
