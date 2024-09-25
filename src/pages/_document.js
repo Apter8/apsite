@@ -13,8 +13,8 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-          <meta name="keywords" content="React Nextjs Template Ravo Multi-Purpose themeforest" />
-          <meta name="description" content="Ravo - Multi-Purpose React.js Next.js Template" />
+          <meta name="keywords" content="Arnold Petersen" />
+          <meta name="description" content="Product Designer" />
           <meta name="author" content="" />
           <link rel="shortcut icon" href="/img/favicon.ico" />
 
